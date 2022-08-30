@@ -3,7 +3,7 @@
 
 We used AVEC challenge data- 2016 and 2019 for our experiemntation.
 
-Step 1: Extract modultion spectrum fetaures and eGEMAPs features \\
+Step 1: Extract modultion spectrum fetaures and eGEMAPs features \hline
 Step 2: Apply domain adaptation . \\
 Step 3: Use Bag of word approach on domain adaptation. \\
 Step 4: Use this as pre processing features to BiLSTM model. \\
