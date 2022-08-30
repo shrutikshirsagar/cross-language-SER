@@ -1,16 +1,18 @@
 # Cross-language-SER
-![image](https://user-images.githubusercontent.com/34964872/187512239-d6f15863-238b-4396-bf5e-c0cd0e8909fc.png)
-
-![image](https://user-images.githubusercontent.com/34964872/187512399-bfb0a805-86ed-48cf-802c-4e8770e4bd5b.png)
-![image](https://user-images.githubusercontent.com/34964872/187512529-4d6b7147-b7ad-4408-a9ae-f78134247877.png)
 
 
 We used AVEC challenge data- 2016 and 2019 for our experiemntation.
 
-Step 1: Extract modultion spectrum fetaures and eGEMAPs features
-Step 2: Apply domain adaptation .
-Step 3: Use Bag of word approach on domain adaptation.
-Step 4: Use this as pre processing features to BiLSTM model.
+Step 1: Extract modultion spectrum fetaures and eGEMAPs features \\
+Step 2: Apply domain adaptation . \\
+Step 3: Use Bag of word approach on domain adaptation. \\
+Step 4: Use this as pre processing features to BiLSTM model. \\
+![image](https://user-images.githubusercontent.com/34964872/187512239-d6f15863-238b-4396-bf5e-c0cd0e8909fc.png)
+
+![image](https://user-images.githubusercontent.com/34964872/187512399-bfb0a805-86ed-48cf-802c-4e8770e4bd5b.png)
+
+
+
 
 Important results:
 
