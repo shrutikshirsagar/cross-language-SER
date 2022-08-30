@@ -1,7 +1,7 @@
 # Cross-language-SER
 
 
-We used AVEC challenge data- 2016 and 2019 for our experiemntation.
+We used AVEC challenge data- 2016 and 2019 for our experimentation.
 
 Step 1: Extract modultion spectrum fetaures and eGEMAPs features.
 
